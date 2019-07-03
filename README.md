@@ -14,7 +14,7 @@ Para probar el funcionamiento:
 npm install request
 ```
 
-Instanaciar express:
+Instanciar express:
 ```
 const express = require("express");
 const app = express();
